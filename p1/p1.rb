@@ -63,5 +63,5 @@ p = Packing.new
 
 while (input = gets)
 	p.set_items input.chomp!
-	p.pack 10
+	p p.pack 10
 end
