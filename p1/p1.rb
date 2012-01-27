@@ -47,7 +47,6 @@ class Packing
 			end
 
 			if (item <= size)
-				puts item.to_s + "...item"
 				box.push(item)
 				@rest.delete_at @rest.index(item)
 				size -= item
