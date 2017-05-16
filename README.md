@@ -1,2 +1,2 @@
-# kkbox_hackathon
+# KKBOX Hackathon Practice
 Practice of kkbox hackathon using ruby
